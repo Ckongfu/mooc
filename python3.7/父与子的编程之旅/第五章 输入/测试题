@@ -1,0 +1,5 @@
+1。字符串
+2。input('Hello please input a number:')
+3。a=int(input()) 会得到一个整数存放在变量a中
+4。a=float(input()) 会得到一个浮点数存放在变量a中
+

@@ -1,0 +1,6 @@
+1。easygui.msgbox('')
+2.easygui.enterbox('') 得到一些文本
+3.easygui.integerbox()得到整数
+4.float(easygui.enterbox()) 先取字符串，再格式化为浮点数
+
+
