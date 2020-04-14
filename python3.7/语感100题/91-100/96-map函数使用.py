@@ -1,4 +1,8 @@
 #使用map函数求列表[2,3,4,5]中每个元素的平方
+a=[2,3,4,5]
+k=list(i**2 for i in a)
+print(k)
+'''
 def square(x):
     return pow(x,2)
 a=[2,3,4,5]
@@ -8,7 +12,7 @@ for i in a:
     b.append(x)
 print(b)
 
-'''
+
 a=[2,3,4,5]
 j=map(square,a)
 print(list(j))
